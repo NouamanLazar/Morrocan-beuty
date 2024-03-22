@@ -29,6 +29,5 @@ This webpage features a carousel displaying images and information about differe
 - Developed by [Nouaman Lazar](https://github.com/NouamanLazar/).
 
 ## Preview
-
-![Preview](preview.png)
+https://nouamanlazar.github.io/Morrocan-beuty/
 
