@@ -81,13 +81,7 @@ ul, ul a{
 .carousel .list .item .topic{
     color: #f1683a;
 }
-.carousel .list .item .buttons{
-    display: grid;
-    grid-template-columns: repeat(1, 350px);
-    grid-template-rows: 40px;
-    gap: 5px;
-    margin-top: 20px;
-}
+
 .carousel .list .item .buttons button{
     border: 2px solid #f1683a;
     background-color: #ffefef00;
@@ -97,9 +91,6 @@ ul, ul a{
     color: #ffffff;
     font-weight: 900;
     cursor: pointer;
-}
-.carousel .list .item .buttons button:hover {
-    background-color: #f1683a;
 }
 
 /* thumbail */
